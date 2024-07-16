@@ -1,7 +1,15 @@
 ## Esdt.market Discord Bot
 
-![image](https://github.com/user-attachments/assets/679bded0-99ec-4704-b6ad-524f6bdc3a5c)
-![image](https://github.com/user-attachments/assets/b66514b8-c0ff-4411-b903-0558489c3e77)
+A Discord bot developed for [ESDT Market](https://esdt.market/) to notify users of newly created offers.
+The bot utilizes Elrond API (Now rebranded to [MultiversX](https://api.multiversx.com/)) and discord.py module for observing transactions and sending message
+It additionally has two in-built functions for syncing offers and getting offer links from transaction hashes.
 
-https://replit.com/@MaksudMalik/DiscordBot
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/58494b9d-4f63-4cfb-b91c-7fc2c63805fc" width="90%" />
+</p>
+
+Replit Link: [DiscordBot](https://replit.com/@MaksudMalik/DiscordBot)
+
+> [!CAUTION]
+> APIs used in the codes are depreciated, so the bot is no longer functional.
 
